@@ -1,4 +1,4 @@
-# HTML Template for blogging
+# HTML for blogging
 
 ## Screenshots
 
